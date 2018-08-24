@@ -69,7 +69,7 @@ La aplicación acepta peticiones unicamente del front desde http://localhost:420
 La aplicación cuenta con unas pocas pruebas que aseguran la fiabilidad de la misma, para que se ejecuten las pruebas en la carpeta raíz de la aplicación ejecute el comando mocha; este comprobará que la configuración anterior se encuentra en perfecto estado y que puede utilizar la aplicación normalmente.
 
 ```
-npm install
+npm install -g mocha
 ```
 
 ## Despliegue
